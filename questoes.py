@@ -2,7 +2,7 @@
 
 clubs = []
 
-for time in range(4):
+for time in range(10):
     clubs.append(input("Digite os clubes: "))
 
 print("Digite o nome de seu clube para conferir se está na lista!! ")
